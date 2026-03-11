@@ -1,0 +1,50 @@
+EMPLOYMENT CONTRACT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into as of January 1, 2026, by and between TechCorp Inc., a Delaware corporation ("Employer"), and John Smith ("Employee").
+
+1. POSITION AND DUTIES
+Employee shall serve as Senior Software Engineer and shall perform such duties as are customarily associated with such position, including but not limited to:
+- Design, develop, and maintain software applications
+- Collaborate with cross-functional teams
+- Participate in code reviews and technical discussions
+- Mentor junior developers
+
+2. COMPENSATION
+Employer shall pay Employee a base salary of $150,000 per year, payable in accordance with Employer's standard payroll practices. Employee shall be eligible for performance-based bonuses at the discretion of Employer.
+
+3. BENEFITS
+Employee shall be entitled to participate in all employee benefit plans maintained by Employer, including:
+- Health insurance (medical, dental, vision)
+- 401(k) retirement plan with employer matching
+- Paid time off (15 days per year)
+- Sick leave (10 days per year)
+
+4. CONFIDENTIALITY
+Employee acknowledges that during employment, Employee will have access to confidential information and trade secrets. Employee agrees to maintain the confidentiality of such information both during and after employment.
+
+5. NON-COMPETE CLAUSE
+During employment and for a period of twelve (12) months following termination, Employee agrees not to engage in any business that directly competes with Employer within a 50-mile radius of Employer's principal place of business.
+
+6. INTELLECTUAL PROPERTY
+All inventions, discoveries, and improvements conceived or made by Employee during employment shall be the exclusive property of Employer. Employee agrees to assign all rights, title, and interest to Employer.
+
+7. TERMINATION
+This Agreement may be terminated:
+a) By Employer with or without cause upon thirty (30) days written notice
+b) By Employee upon thirty (30) days written notice
+c) Immediately by either party for material breach
+
+8. SEVERANCE
+In the event of termination without cause, Employee shall receive severance pay equal to two (2) months of base salary.
+
+9. DISPUTE RESOLUTION
+Any disputes arising under this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+10. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties and supersedes all prior understandings and agreements.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+_________________________          _________________________
+TechCorp Inc.                      John Smith
+By: Jane Doe, CEO                  Employee
